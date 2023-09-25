@@ -1,0 +1,48 @@
+@import url('https://fonts.googleapis.com/css2?family=Fascinate&family=Mooli&family=Open+Sans&family=Poppins&family=Raleway&family=Roboto&family=Roboto+Slab:wght@100&family=Work+Sans&display=swap');
+
+body{
+    margin: 0px;
+    padding: 0px;
+}
+
+img{
+    padding: 37px;
+background-color: rgb(1, 1, 1);
+font-family: 'Roboto', sans-serif;
+}
+
+.border{
+box-sizing: inherit;
+border-style: inset;
+border-color: rgb(2, 2, 2);
+box-sizing: border-box
+
+}
+
+.margin{
+    margin: auto;
+    margin-left: auto;
+    margin-top: auto;
+    margin-right: auto;
+    margin-bottom: auto;
+}
+
+.font{
+font-family: 'Roboto', sans-serif;
+font-size: medium;
+font-style: inherit;
+justify-content: unset;
+}
+
+.display{
+margin-top: 0px;
+margin-bottom: 0px;
+margin-right: 0px;
+margin-left: 0px;
+}
+
+.background{
+    background-color: black;
+    border-spacing: 0px;
+}
+
